@@ -50,10 +50,7 @@ Towards the Best.
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=crystalstar0920&label=Profile%20views&color=0e75b6&style=flat" alt="crystalstar0920" /> </p>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crystalstar0920" alt="crystalstar0920" /></a> </p>
 </div>
-
 <div>
-    <p align="left">
-
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="android" width="40" height="40" />
@@ -146,7 +143,7 @@ Towards the Best.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" />
     </a>
-    <a style="margin:20px;" href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <a style="margin:20;" href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" />
     </a>
@@ -209,5 +206,4 @@ Towards the Best.
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
     </a>
-</p>
 </div>
