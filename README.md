@@ -45,11 +45,12 @@ Towards the Best.
     <img align="center" alt="Rest API" height="50" width="50" src="https://nextbigtechnology.com/wp-content/uploads/2018/10/restapi.jpg">
     <img align="center" alt="Docker" height="50" width="50" src="https://img.icons8.com/color/search/docker">
 </div>
-
+<br><br>
 <div>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=crystalstar0920&label=Profile%20views&color=0e75b6&style=flat" alt="crystalstar0920" /> </p>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crystalstar0920" alt="crystalstar0920" /></a> </p>
 </div>
+<br><br>
 <div>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
